@@ -1,0 +1,9 @@
+# Required
+node_modules/
+snapshot/
+storage/
+.env
+
+# Unwanted
+.DS_Store
+*.log
